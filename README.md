@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=200&size=50&duration=2000&pause=1000&center=true&Center=true&width=700&height=120&lines=Hola%2C+soy+Diego+Arriagada;Estoy+aprendiendo+BackEnd;En+%E2%AD%95racle+Alura+Latam)](https://git.io/typing-svg)
 
-</br>
-
 <img width="1000" height="300" src="https://user-images.githubusercontent.com/11466784/236975947-5e23ed51-ca67-42ea-bb55-da6f56465882.png"/>
   
   </br>
