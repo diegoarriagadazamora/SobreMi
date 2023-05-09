@@ -1,9 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=200&size=50&duration=2000&pause=1000&center=true&Center=true&width=700&height=120&lines=Hola%2C+soy+Diego+Arriagada;Estoy+aprendiendo+BackEnd;En+%E2%AD%95racle+Alura+Latam)](https://git.io/typing-svg)
+<H1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=50&duration=2000&pause=1500&color=green&multiline=false&width=740&height=120&lines=Hola+soy+Diego+Arriagada;Estoy+aprendiendo+BackEnd+Java;En+⭕Oracle||+Alura+Latam!!!" alt="Typing SVG" /></a>
+</H1>
 
 <img width="1000" height="300" src="https://user-images.githubusercontent.com/11466784/236975947-5e23ed51-ca67-42ea-bb55-da6f56465882.png"/>
   
   </br>
 
+  <p align="left">
   Soy Diego Arriagada, un aficionado por la tecnología y la programación web. Actualmente soy ganador de una beca
   de estudios G5 de ONE en Alura Latam + Oracle, donde aprenderé soft skills,
   lógica de programación [en JavaScript], básico de FrontEnd y BackEnd para posteriormente elegir un solo camino que será
@@ -12,7 +15,7 @@
   porque me encanta seguir aprendiendo más cosas y seguir profundizando en la materia, para lo cual al termino de esta
   cursada profundizaré en Javascript [MERN, MEAN, MEVN y TypeScript] le invito a ver mis proyectos
   de practicas en clases como futuros proyectos profesional, y dejar su feedback para mejorar, muchas gracias");
- 
+ </p>
 </br>
   
 <a target="_blank" href="https://www.linkedin.com/in/diegoarriagadazamora/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
