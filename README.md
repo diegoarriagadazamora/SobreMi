@@ -1,17 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=200&size=50&duration=2000&pause=1000&width=700&height=120&lines=Hola%2C+soy+Diego+Arriagada;Estoy+aprendiendo+BackEnd;En+%E2%AD%95racle+Alura+Latam)](https://git.io/typing-svg)
+
+</br>
+
+<img width="1000" height="300" src="https://user-images.githubusercontent.com/11466784/236975947-5e23ed51-ca67-42ea-bb55-da6f56465882.png"/>
   
   </br>
 
-Sobre Mí
-
-  Hola! Soy Diego Arriagada, un aficionado por la tecnología y la programación web. Actualmente soy ganador de una beca
-  de estudios G5 de ONE en Alura Latam + Oracle para la cursada de programación BackEnd Java, donde aprenderé soft skills,
+  Soy Diego Arriagada, un aficionado por la tecnología y la programación web. Actualmente soy ganador de una beca
+  de estudios G5 de ONE en Alura Latam + Oracle, donde aprenderé soft skills,
   lógica de programación [en JavaScript], básico de FrontEnd y BackEnd para posteriormente elegir un solo camino que será
-  BackEnd Java; Programación Web FrontEnd React, anteriormente he términado un Diplomado en diseño y programación web
+  Developer Jr BackEnd Java + SpringBoot + Sql. Anteriormente he términado un Diplomado en diseño y programación web
   impartido por AIEP y Sense en la cual aprendí lo básico de Html5, Css3, Javascript y Wordpress, y esto no termina ahí,
-  porque me encanta seguir aprendiendo más cosas y seguir profundizando en la materia, le invito a ver mis proyectos tanto
+  porque me encanta seguir aprendiendo más cosas y seguir profundizando en la materia, para lo cual al termino de esta
+  cursada profundizaré en Javascript [MERN, MEAN, MEVN y TypeScript] le invito a ver mis proyectos
   de practicas en clases como futuros proyectos profesional, y dejar su feedback para mejorar, muchas gracias");
-
+ 
 </br>
   
 <a target="_blank" href="https://www.linkedin.com/in/diegoarriagadazamora/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -19,7 +22,7 @@ Sobre Mí
 
 
 
-![](https://komarev.com/ghpvc/?username=diegoarriagadazamora&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/diegoarriagadazamora?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/diegoarriagadazamora?style=social)
+![](https://komarev.com/ghpvc/?username=diegoarriagadazamora&label=PROFILE+VIEWS)![GitHub Org's stars](https://img.shields.io/github/stars/diegoarriagadazamora?style=social)![GitHub Org's stars](https://img.shields.io/github/followers/diegoarriagadazamora?style=social)
 
 </br>
 
