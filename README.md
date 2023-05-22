@@ -16,8 +16,8 @@
   de practicas en clases como futuros proyectos profesional, y dejar su feedback para mejorar, muchas gracias");
  </p>
 </br>
- <H2><a target="_blank" href="https://diegoarriagadazamora.github.io/Portafolio/"><img src="https://github.com/diegoarriagadazamora/Portafolio/blob/fb17875d2d5c4205f81d56f8934d6d5734e46051/assets/img/proyecto/portafolio.png"></img></a></H2>
- 
+<a target="_blank" href="https://diegoarriagadazamora.github.io/Portafolio"><img src="https://github.com/diegoarriagadazamora/Portafolio/blob/master/assets/img/proyecto/portafolio.png"></img></a>
+
  </br> </br>
 <a target="_blank" href="https://www.linkedin.com/in/diegoarriagadazamora/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:diegoarriagadazamora@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
