@@ -1,4 +1,4 @@
-<H1 align="center">
+⁸<H1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=50&duration=2000&pause=1000&color=green&multiline=false&width=740&height=120&lines=Hola+soy+Diego+Arriagada;Estoy+aprendiendo+Backend+Java;En+⭕Oracle+ONE+%2B+Alura+Latam;Y+en+TodoCode+Academy!!!" alt="Typing SVG" /></a>
 </H1>
 
@@ -16,7 +16,7 @@
   de practicas en clases como futuros proyectos profesional, y dejar su feedback para mejorar, muchas gracias");
  </p>
 </br>
- <H2><a target="_blank" href="https://diegoarriagadazamora.github.io/portafolio/"><img src="https://github.com/diegoarriagadazamora/portafolio/blob/fb17875d2d5c4205f81d56f8934d6d5734e46051/assets/img/proyecto/portafolio.png"></img></a></H2>
+ <H2><a target="_blank" href="https://diegoarriagadazamora.github.io/Portafolio/"><img src="https://github.com/diegoarriagadazamora/Portafolio/blob/fb17875d2d5c4205f81d56f8934d6d5734e46051/assets/img/proyecto/portafolio.png"></img></a></H2>
  
  </br> </br>
 <a target="_blank" href="https://www.linkedin.com/in/diegoarriagadazamora/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
