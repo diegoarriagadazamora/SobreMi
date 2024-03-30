@@ -1,8 +1,8 @@
 <H1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=50&duration=2000&pause=1000&color=green&multiline=false&width=740&height=120&lines=Hola+soy+Diego+Arriagada;Estoy+aprendiendo+Backend+Java;En+Alkemy+||+EnglishAlways;Y+en+TodoCode+Academy!!!" alt="Typing SVG" /></a>
 </H1>
+<a href="https://github.com/diegoarriagadazamora"><img width="1000" height="300" src="https://user-images.githubusercontent.com/11466784/236975947-5e23ed51-ca67-42ea-bb55-da6f56465882.png"/></a>
 
-<img width="1000" height="300" src="https://user-images.githubusercontent.com/11466784/236975947-5e23ed51-ca67-42ea-bb55-da6f56465882.png"/>
   
   </br>
 
@@ -28,7 +28,8 @@
 </br>
 </br>
 <div align="center">
-   
+
+  <h3 align="center">Tecnologías que domino:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
@@ -47,6 +48,7 @@
   </div>
 
 </div>
+</br>
 <h3 align="center">Conecta Conmigo:</h3>
 <p align="center">
   <a href="https://instagram.com/diego_arriagadazamora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code.clash" height="30" width="40" /></a>
