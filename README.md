@@ -57,49 +57,49 @@
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
+<table align="float:left" >
 <tr border="none">
-  <td width="25%" align="center">
-    <p align="center"> 
+  <td width="25%" align="float:center">
+    <p align="float:center"> 
       <a href="https://diegoarriagadazamora.github.io/Portafolio/" title="Go to Source">
-     <img align="center" width=100% src="https://github.com/diegoarriagadazamora/Portafolio/blob/master/assets/img/proyecto/portafolio.png" alt="WEB" /></a>
+     <img align="float:center" width=100% src="https://github.com/diegoarriagadazamora/Portafolio/blob/master/assets/img/proyecto/portafolio.png" alt="WEB" /></a>
       </p>
-    <p align="center">
+    <p align="float:center">
       <h6>Portafolio Personal</h6>
-      <a href="https://diegoarriagadazamora.github.io/Portafolio/" target="blank"><img align="center" src="https://img.shields.io/badge/DEMO-FF0000?style=for-the-badge&logo=DEMO&logoColor=white" alt="@diegoarriagadazamora"  /></a>
-        <a href="https://github.com/diegoarriagadazamora/Portafolio" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@diegoarriagadazamora" /></a>
+      <a href="https://diegoarriagadazamora.github.io/Portafolio/" target="blank"><img align="float:center" src="https://img.shields.io/badge/DEMO-FF0000?style=for-the-badge&logo=DEMO&logoColor=white" alt="@diegoarriagadazamora"  /></a>
+        <a href="https://github.com/diegoarriagadazamora/Portafolio" target="blank"><img align="float:center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@diegoarriagadazamora" /></a>
     </p>       
 </td>
-<td width="25%" align="center">
-    <p align="center">
+<td width="25%" align="float:center">
+    <p align="float:center">
       <a href="https://diegoarriagadazamora.github.io/Billetera_Virtual/" title="Go to Source">
-     <img align="center" width=100% src="https://github.com/diegoarriagadazamora/Portafolio/blob/master/assets/img/proyecto/alketera.png"    alt="WEB" /></a>
+     <img align="float:center" width=100% src="https://github.com/diegoarriagadazamora/Portafolio/blob/master/assets/img/proyecto/alketera.png"    alt="WEB" /></a>
       </p>
-    <p align="center">
+    <p align="float:center">
       <h6>Billetera Virtual</h6>
-      <a href="https://diegoarriagadazamora.github.io/Billetera_Virtual/" target="blank"><img align="center" src="https://img.shields.io/badge/DEMO-FF0000?style=for-the-badge&logo=DEMO&logoColor=white" alt="@diegoarriagadazamora"  /></a>
-        <a href="https://github.com/diegoarriagadazamora/Billetera_Virtual" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@diegoarriagadazamora" /></a>
+      <a href="https://diegoarriagadazamora.github.io/Billetera_Virtual/" target="blank"><img align="float:center" src="https://img.shields.io/badge/DEMO-FF0000?style=for-the-badge&logo=DEMO&logoColor=white" alt="@diegoarriagadazamora"  /></a>
+        <a href="https://github.com/diegoarriagadazamora/Billetera_Virtual" target="blank"><img align="float:center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@diegoarriagadazamora" /></a>
     </p>       
 </td>
   
-  <td width="25%" align="center">
-    <p align="center">
+  <td width="25%" align="float:center">
+    <p align="float:center">
       <a href="https://diegoarriagadazamora.github.io/Barberia/" title="Go to Source">
-     <img align="center" width=100% src="https://github.com/diegoarriagadazamora/Portafolio/blob/master/assets/img/proyecto/barberia-alura.png"    alt="WEB" /></a>
+     <img align="float:center" width=100% src="https://github.com/diegoarriagadazamora/Portafolio/blob/master/assets/img/proyecto/barberia-alura.png"    alt="WEB" /></a>
       </p>
-    <p align="center">
+    <p align="float:center">
       <h6>Barberia Alura</h6>
-      <a href="https://diegoarriagadazamora.github.io/Barberia/" target="blank"><img align="center" src="https://img.shields.io/badge/DEMO-FF0000?style=for-the-badge&logo=DEMO&logoColor=white" alt="@diegoarriagadazamora"  /></a>
-        <a href="https://github.com/diegoarriagadazamora/Barberia" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@diegoarriagadazamora" /></a>
+      <a href="https://diegoarriagadazamora.github.io/Barberia/" target="blank"><img align="float:center" src="https://img.shields.io/badge/DEMO-FF0000?style=for-the-badge&logo=DEMO&logoColor=white" alt="@diegoarriagadazamora"  /></a>
+        <a href="https://github.com/diegoarriagadazamora/Barberia" target="blank"><img align="float:center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@diegoarriagadazamora" /></a>
     </p>       
 </td>
 
-   <td width="25%" align="center">
-    <p align="center">
+   <td width="25%" align="float:center">
+    <p align="float:center">
       <a href="https://diegoarriagadazamora.github.io/alurachallenge/" title="Go to Source">
      <img align="center" width=100% src="https://github.com/diegoarriagadazamora/Portafolio/blob/master/assets/img/proyecto/encriptador.png"    alt="WEB" /></a>
       </p>
-    <p align="center">
+    <p align="float:center">
       <h6>Encriptador</h6>
       <a href="https://diegoarriagadazamora.github.io/alurachallenge/" target="blank"><img align="center" src="https://img.shields.io/badge/DEMO-FF0000?style=for-the-badge&logo=DEMO&logoColor=white" alt="@diegoarriagadazamora"  /></a>
         <a href="https://github.com/diegoarriagadazamora/alurachallenge" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@diegoarriagadazamora" /></a>
